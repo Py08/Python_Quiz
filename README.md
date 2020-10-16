@@ -6,17 +6,17 @@ A Quiz With 10 Questions related to python!
 <hr>
 <h2> How To Play </h2>
 <p> Run The file and read the rules: </p>
-<img src = ""
+<img src = "https://github.com/Py08/Python_Quiz/blob/main/img%201.png"
 	 alt = "Rules Image">
 <p> Click on Next and press yes when it asks if you want to continue. </p>
 <h5> Answer the questions by entering the correct option in the entry(a/b/c/d)and enjoy! But be careful one wrong answer, you lose! </h5>
-<img src = ""
+<img src = "https://github.com/Py08/Python_Quiz/blob/main/img%202.png"
 	 alt = "Question Image">
 <br>
 <img src = ""
 	 alt = "Correct Answer Image">
 <br>
-<img src = ""
+<img src = "https://github.com/Py08/Python_Quiz/blob/main/img%203.png"
 	 alt = "Wrong Answer Image">
 <br>
 <hr>
