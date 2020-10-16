@@ -20,5 +20,5 @@ A Quiz With 10 Questions related to python!
 	 alt = "Wrong Answer Image">
 <br>
 <hr>
-<h3> Create An Issue If There is a Problem with the code in the <a href = ""> Issues Tab </a> </h3>
+<h3> Create An Issue If There is a Problem with the code in the <a href = "https://github.com/Py08/Python_Quiz/issues"> Issues Tab </a> </h3>
 <h1> Star This Repository If You Liked It!! </h1>
