@@ -13,7 +13,7 @@ A Quiz With 10 Questions related to python!
 <img src = "https://github.com/Py08/Python_Quiz/blob/main/img%202.png"
 	 alt = "Question Image">
 <br>
-<img src = ""
+<img src = "https://github.com/Py08/Python_Quiz/blob/main/img%204.png"
 	 alt = "Correct Answer Image">
 <br>
 <img src = "https://github.com/Py08/Python_Quiz/blob/main/img%203.png"
